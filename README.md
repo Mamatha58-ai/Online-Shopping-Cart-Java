@@ -26,7 +26,7 @@ This project was built as an academic capstone with a modular design and clear s
 
 | Login | Admin Login | User Login |
 | --- | --- | --- |
-| ![Login](Screenshots/login-main.png) | ![Admin Login](Screenshots/login-admin.png) | ![User Login](Screenshots/login-user.png) |
+| ![Login](Screenshots/login-main.png) | ![Admin Login](https://github.com/Mamatha58-ai/Online-Shopping-Cart-Java/blob/master/Screenshots/login-Admin.png) | ![User Login](Screenshots/login-user.png) |
 
 | Admin Dashboard | Product Details | Stock Update |
 | --- | --- | --- |
