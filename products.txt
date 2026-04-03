@@ -1,0 +1,10 @@
+Lenovo Laptop i5|899.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Lenovo Laptop  i5.jpg|3
+SamsungGalaxy S25|799.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\SamsungGalaxy S25.jpg|10
+Dyson Headphones|349.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Dyson Headphones.jpg|7
+Earbuds|149.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Earbuds.jpg|12
+Smart TV|599.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Smart TV.jpg|10
+Titan Watch|299.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Titan Watch.jpg|18
+Shirt|39.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Shirt.jpg|10
+Recliner Sofa|1299.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Recliner Sofa.jpg|3
+Caspian Cupboard|799.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\Caspian cupboard.jpg|8
+Suitcase|199.99|c:\Users\mamat\OneDrive\Desktop\OnlineShoppingCart\images\suitecase.jpg|19
