@@ -32,9 +32,9 @@ This project was built as an academic capstone with a modular design and clear s
 | --- | --- | --- |
 | ![Admin Dashboard](Screenshots/dashboard-admin.png) | ![Product Details](Screenshots/product-details.png) | ![Stock Update](Screenshots/stock-update.png) |
 
-| User Dashboard | Cart View | Checkout |
-| --- | --- | --- |
-| ![User Dashboard](Screenshots/dashboard-user.png) | ![Cart](Screenshots/cart-view.png) | ![Coupon Checkout](Screenshots/coupon-checkout.png) |
+| User Dashboard | Cart View | Checkout | Order Placed |
+| --- | --- | --- | --- |
+| ![User Dashboard](Screenshots/dashboard-user.png) | ![Cart](Screenshots/cart-view.png) | ![Coupon Checkout](Screenshots/coupon-checkout.png) |![Order placed](https://github.com/Mamatha58-ai/Online-Shopping-Cart-Java/blob/master/Screenshots/order-placed.png)
 
 ## Project Structure
 
